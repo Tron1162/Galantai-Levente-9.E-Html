@@ -1,0 +1,218 @@
+
+/* * *  K�ls� keret form�z�sa  * * */
+
+
+    body
+    {
+	font-family       :  Verdana             ;
+	text-align        :  center              ;
+    }
+
+    div#keret
+    {
+	width             : 1116px               ;
+    }
+
+    div#keret h1
+    {
+	margin-bottom     :  0                   ;
+	font-size         : 24px                 ;
+	color             : #AA0000              ;
+    }
+
+    div#keret h2
+    {
+	margin            :  8px 0 24px 0        ;
+	font-size         : 18px                 ;
+	color             : #550000              ;
+    }
+
+    a
+    {
+	text-decoration   :  none                ;
+    }
+
+    .ful
+    {
+	float             :  left                ;
+	width             :  120px               ;
+	height            :   36px               ;
+	margin            :  0 2px               ;
+	border-radius     :  16px 16px 0 0       ;
+	text-align        :  center              ;
+	line-height       :  36px                ;
+	vertical-align    :  middle              ;
+	font-weight       :  bold                ;
+	font-size         :  14px                ;
+	color             :  #FFF                ;
+    }
+
+    iframe
+    {
+	border-radius     :  0 0 0 32px          ;  webkit-border-radius: 0 0 0 32px ;  -moz-border-radius: 0 0 0 32px ;
+    }
+
+
+
+/* * *  Bels� keret form�z�sa  * * */
+
+
+    body#belso
+    {
+	margin            :  24px 36px 72px 36px ;
+	padding           :  0px                 ;
+	text-align        :  left                ;
+	font-size         :  12px                ;
+	color             :  #FFF                ;
+    }
+
+    body#belso h1
+    {
+	margin            :  24px                ;
+	text-align        :  center              ;
+	font-size         :  18px                ;
+    }
+
+    body#belso h2
+    {
+	text-align        :  center              ;
+	font-size         :  24px                ;
+    }
+
+
+
+/* * *  Bels� keret: lista �s k�pek-bekezd�sek form�z�sa  * * */
+
+
+    body#belso div#lista ul
+    {
+	text-align        :  justify             ;
+	margin            :  24px 72px 48px 48px ;
+	font-weight       :  bold                ; 
+    }
+
+    body#belso div#lista ul li
+    {
+	margin-bottom     :    8px               ; 
+    }
+
+    body#belso div#lista div:nth-child(odd)
+    {
+	height            :  160px               ;
+	margin-left       :    0px               ;
+    }
+
+    body#belso div#lista div:nth-child(even)
+    {
+	height            :  160px               ;
+	margin-left       :   90px               ;
+    }
+
+    body#belso div#lista div img
+    {
+	width             :  180px               ;
+	height            :  180px               ;
+	border-radius     :  8px                 ;
+	box-shadow        :  8px 8px 4px #1118   ;
+    }
+
+    body#belso div#lista div h2
+    {
+	margin-top        : -156px               ;
+	margin-left       :  212px               ;
+    }
+
+    body#belso div#lista div p
+    {
+	margin-left       :  220px               ;
+	text-align        :  justify             ;
+    }
+.cece{
+ margin-bottom: 200px;
+}
+.cece2{
+ float: right;
+ margin-top: 150px;
+ margin-left: 10px;
+}
+.cece3{
+ 
+}
+.cskígyó{
+    margin-bottom: 200px;
+}
+.cskígyó2{
+float: right;
+margin-top: 150px;
+}
+.cskígyó3{
+
+}
+.efa{
+    margin-bottom: 200px;
+}
+.efa2{
+    float: right;
+    margin-top: 150px;
+}
+.efa3{
+
+}
+.ember{
+    margin-bottom: 200px;
+}
+.ember2{
+    float: right;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+.ember3{
+
+}
+.kobra{
+    margin-bottom: 200px;
+}
+.kobra2{
+    float: right;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+.kobra3{
+
+}
+.kuta{
+    margin-bottom: 200px;
+}
+.kutya2{
+    float: right;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+.kutya3{
+
+}
+.malaria{
+    margin-bottom: 200px;
+}
+.malaria2{
+    float: right;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+.malaria3{
+
+}
+.mamba{
+    margin-bottom: 200px;
+}
+.mamba2{
+    float: right;
+    margin-top: 150px;
+    
+}
+.mamba3{
+margin-bottom: 500px;
+}
+.cecep{ 
+    margin-bottom: 30px;
+}
